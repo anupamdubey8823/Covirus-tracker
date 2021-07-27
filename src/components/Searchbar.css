@@ -1,0 +1,15 @@
+form {
+    display: flex;
+    justify-content: center;
+}
+
+/* Default class in Form Control component in React bootstrap */
+.form-control {
+    width: 30%;
+    border: 0px;
+    border-radius: 10px;
+    background: #ffffff;
+    box-shadow:  11px 11px 22px #e6e6e6,
+    -11px -11px 22px #ffffff;
+    transition: 0.25s;
+}
